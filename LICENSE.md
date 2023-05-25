@@ -16,17 +16,18 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 Any questions about our licensed work can be sent to opensource@ncsoft.com.
 This software uses Open Source Software (OSS). You can find the link for the source code of these open source projects, along with applicable license information, below.
 
+---------------------------------------------------
 
-keras-io
-https://github.com/keras-team/keras-io
+keras-io <br>
+https://github.com/keras-team/keras-io <br>
 Apache License 2.0
 
-node2vecplus_benchmarks
-https://github.com/krishnanlab/node2vecplus_benchmarks
-Copyright (c) 2022, Krishnan Laboratory, Michigan State University. All rights reserved.
+node2vecplus_benchmarks <br>
+https://github.com/krishnanlab/node2vecplus_benchmarks <br>
+Copyright (c) 2022, Krishnan Laboratory, Michigan State University. All rights reserved. <br>
 BSD 3-Clause "New" or "Revised" License
 
-pytorch_geometric
-https://github.com/pyg-team/pytorch_geometric
-Copyright (c) 2023 PyG Team <team@pyg.org>
+pytorch_geometric <br>
+https://github.com/pyg-team/pytorch_geometric <br>
+Copyright (c) 2023 PyG Team <team@pyg.org> <br>
 MIT License
