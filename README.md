@@ -1,5 +1,5 @@
 # ARGEW: Augmentation of Random walks by Graph Edge Weights
-This repository contains scripts for the results presented in the paper _Node Embedding for Homophilous Graphs with ARGEW: Augmentation of Random walks by Graph Edge Weights_.
+This repository contains scripts for the results presented in the paper _Node Embedding for Homophilous Graphs with ARGEW: Augmentation of Random walks by Graph Edge Weights_. (arXiv: https://arxiv.org/abs/2308.05957)
 
 
 ## Python libraries
